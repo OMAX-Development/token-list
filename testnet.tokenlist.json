@@ -3,7 +3,7 @@
   "timestamp": "2024-01-20T12:00:00Z",
   "version": {
     "major": 1,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "keywords": [
@@ -17,6 +17,13 @@
       "address": "0x373e4b4E4D328927bc398A9B50e0082C6f91B7bb",
       "name": "Wrapped OMAX",
       "symbol": "WOMAX",
+      "decimals": 18
+    },
+    {
+      "chainId": 332,
+      "address": "0xF8323cEbc1ED653DFc0264cfdf4BEc35c6727CDd",
+      "name": "Test Token",
+      "symbol": "TT",
       "decimals": 18
     }
   ]
