@@ -15,7 +15,17 @@
 -  `logoURI`: An optional logo of your token. Must be a **square** (recommended: 128x128) PNG w/ transparent background. Please compress using https://tinypng.com. By default: https://raw.githubusercontent.com/OMAX-Development/token-list/master/assets/${address}/logo.png
 -  `tags`:    An array of tag identifiers associated with the token.
 
+#  IMPORTANT !
+ 
+Use **CHECKSUMMED** address (with lower and upper cases)
 
+✅ 0xf3ff0c99dfe3a50C3E1e8ceF4399aF047e75416a
+
+❌ 0xf3ff0c99dfe3a50c3e1e8cef4399af047e75416a
+
+### Double check this condition when you are:
+1) Creating new folder in `assets` directory
+2) Updating | Adding token info into `mainnet.tokenlist.json` or `testnet.tokenlist.json` 
 
 # A last note
 
