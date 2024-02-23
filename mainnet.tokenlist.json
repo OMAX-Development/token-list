@@ -21,6 +21,15 @@
       "logoURI": "https://raw.githubusercontent.com/OMAX-Development/token-list/master/assets/0x373e4b4E4D328927bc398A9B50e0082C6f91B7bb/logo.png",
       "tags": ["wrapped", "native"]
     },
+     {
+      "chainId": 311,
+      "address": "0x277e926A0E81b9e258dAb620dc62dc84d15A936D",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/OMAX-Development/token-list/master/assets/0x277e926A0E81b9e258dAb620dc62dc84d15A936D/logo.png",
+      "tags": ["stable ", "native"]
+    },
     {
       "chainId": 311,
       "address": "0xf3ff0c99dfe3a50C3E1e8ceF4399aF047e75416a",
