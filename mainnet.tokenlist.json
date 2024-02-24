@@ -1,9 +1,9 @@
 {
   "name": "ERC20 Tokens",
-  "timestamp": "2024-02-24T12:00:00Z",
+  "timestamp": "2024-02-22T12:00:00Z",
   "version": {
     "major": 1,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/OMAX-Development/token-list/master/omax.png",
@@ -27,7 +27,7 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 18,
-      "tags": ["native"]
+      "tags": ["stable"]
     }
   ]
 }
