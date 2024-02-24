@@ -1,10 +1,10 @@
 {
   "name": "ERC20 Tokens",
-  "timestamp": "2024-02-22T12:00:00Z",
+  "timestamp": "2024-02-23T12:00:00Z",
   "version": {
     "major": 1,
     "minor": 4,
-    "patch": 1
+    "patch": 2
   },
   "logoURI": "https://raw.githubusercontent.com/OMAX-Development/token-list/master/omax.png",
   "keywords": [
