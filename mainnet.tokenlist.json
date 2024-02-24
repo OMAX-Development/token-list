@@ -1,9 +1,9 @@
 {
   "name": "ERC20 Tokens",
-  "timestamp": "2024-02-23T12:00:00Z",
+  "timestamp": "2024-02-24T12:00:00Z",
   "version": {
     "major": 1,
-    "minor": 4,
+    "minor": 5,
     "patch": 2
   },
   "logoURI": "https://raw.githubusercontent.com/OMAX-Development/token-list/master/omax.png",
@@ -28,6 +28,13 @@
       "symbol": "USDT",
       "decimals": 18,
       "tags": ["stable"]
+    },
+    {
+      "chainId": 311,
+      "address": "0x902FA6386a5eda84A3d3C87a209283a77D3Bde5A",
+      "name": "Tara Token",
+      "symbol": "TARA",
+      "decimals": 18
     }
   ]
 }
