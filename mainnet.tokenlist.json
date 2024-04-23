@@ -3,7 +3,7 @@
   "timestamp": "2024-02-24T12:00:00Z",
   "version": {
     "major": 1,
-    "minor": 5,
+    "minor": 6,
     "patch": 2
   },
   "logoURI": "https://raw.githubusercontent.com/OMAX-Development/token-list/master/omax.png",
@@ -34,6 +34,13 @@
       "address": "0x902FA6386a5eda84A3d3C87a209283a77D3Bde5A",
       "name": "Tara Token",
       "symbol": "TARA",
+      "decimals": 18
+    },
+    {
+      "chainId": 311,
+      "address": "0x3B28e982662367cc348efd22b345d8a7e42bA46b",
+      "name": "Phoenix",
+      "symbol": "PHNX",
       "decimals": 18
     }
   ]
