@@ -23,9 +23,17 @@
     },
     {
       "chainId": 311,
-      "address": "0x277e926A0E81b9e258dAb620dc62dc84d15A936D",
+      "address": "0x70917BAcB19CF648662F1FDe224e46228F435B67",
       "name": "Tether USD",
       "symbol": "USDT",
+      "decimals": 18,
+      "tags": ["stable"]
+    },
+     {
+      "chainId": 311,
+      "address": "0xAC95Ab5d7921E2bE4ea4e84dfB7Af05a0832DD9e",
+      "name": "USD Coin",
+      "symbol": "USDC",
       "decimals": 18,
       "tags": ["stable"]
     },
