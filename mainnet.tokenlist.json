@@ -50,6 +50,13 @@
       "name": "Phoenix",
       "symbol": "PHNX",
       "decimals": 18
+    },
+    {
+      "chainId": 311,
+      "address": "0x513Ec293D12a7aefD070105FD69DBd091024a0ab",
+      "name": "Memex",
+      "symbol": "OMEMEX",
+      "decimals": 18
     }
   ]
 }
